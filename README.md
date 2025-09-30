@@ -3,7 +3,7 @@ Welcome to My Project 🚀
 
 Project Info
 
-This is my personal project developed and maintained by Pratik Thongire.
+This is my personal project developed and maintained by Kashif Shaikh and Pratik Thongire
 
 How can I edit this code?
 
